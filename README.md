@@ -21,7 +21,7 @@ See ....pdf for more details.
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/wlWUMd4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://imgur.com/wlWUMd4](https://i.imgur.com/wlWUMd4.png)" height="80%" width="80%"/>
 <br />
 
 </p>
