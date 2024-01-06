@@ -13,11 +13,7 @@ See Azure_SIEM_Report.pdf for more details.
 - <b>PowerShell</b> 
 - <b>Microsoft Azure</b>
 
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Results:</h2>
+<h2>Results</h2>
 
 <p align="center">
 <br/>
