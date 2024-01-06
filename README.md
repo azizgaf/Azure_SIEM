@@ -3,8 +3,8 @@
 
 <h2>Description</h2>
 Project consists of creating a honeypot and a PowerShell script to capture RDP logon failures and pass this data into a Microsoft Azure Sentinel SIEM. 
-<br>
-See Azure_SIEM_Report.pdf for more details.
+
+<br>See Azure_SIEM_Report.pdf for more details.
 <br />
 
 
@@ -17,7 +17,7 @@ See Azure_SIEM_Report.pdf for more details.
 
 <p align="center">
 <br/>
-<img src="https://imgur.com/wlWUMd4.png" height="80%" width="80%"/>
+<img src="https://imgur.com/wlWUMd4.png" height="120%" width="120%"/>
 <br />
 
 </p>
