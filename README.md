@@ -21,7 +21,7 @@ See ....pdf for more details.
 
 <p align="center">
 <br/>
-<img src="https://imgur.com/wlWUMd4" height="80%" width="80%"/>
+<img src="https://imgur.com/wlWUMd4.png" height="80%" width="80%"/>
 <br />
 
 </p>
