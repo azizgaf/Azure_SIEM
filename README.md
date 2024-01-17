@@ -16,7 +16,7 @@ Project consists of creating a honeypot and a PowerShell script to capture RDP l
 <h2>Results</h2>
 
 <p align="center">
-<br/>
+<br/> The results of the project are presented below, this map highlights the RDP brute force attempts over a span of 10 minutes:
 <img src="https://imgur.com/wlWUMd4.png" height="120%" width="120%"/>
 <br />
 
